@@ -15,9 +15,9 @@ Clone this repository:
 git clone https://github.com/username/KneePainPrognosticModel.git
 
 
-Keywords
+Keywords:
 osteoarthritis, prediction, pain intensity, exercise therapy
 
-Citation
+Citation:
 If you use this code, please cite the original publication:
 M. Rafiei et al., Personalized Predictions for Changes in Knee Pain among Patients with Osteoarthritis Participating in Supervised Exercise and Education - A Prognostic Model Study, [Journal/Conference Details].
